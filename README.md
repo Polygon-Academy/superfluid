@@ -1,7 +1,5 @@
 This repo contains a simple dashboard for Superfluid payment flows using React, Web3.js, and the Superfluid JS SDK.
 
-Instructions for running the app via CRA below.
-
 Enjoy!
 
 
